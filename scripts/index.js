@@ -27,3 +27,4 @@ playerBtn.forEach((btn, i) => btn.addEventListener('click', () => {
 
 radioPlayerInit();
 videoPlayerInit();
+musicPlayerInit();
